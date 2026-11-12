@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/lee12sen/node-action-test#readme",
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
-    "eslint": "^10.14.0",
-    "globals": "^17.14.0"
+    "@eslint/js": "^8.57.1",
+    "eslint": "^8.57.1",
+    "globals": "^13.24.0"
   }
 }
